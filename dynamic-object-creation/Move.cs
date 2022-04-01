@@ -47,6 +47,8 @@ public class Move : MonoBehaviour
         {
             print ("Colisión"); 
             //Destroy(collision.gameObject);
+
+            //hola esto es u nmensaje de prueba
         }
     } 
 
