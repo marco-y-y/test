@@ -49,8 +49,5 @@ public class Move : MonoBehaviour
             //Destroy(collision.gameObject);
         }
     } 
-    void OnTriggerEnter(Collider other) 
-    {
-        print ("Entras en la zona oscura");
-    } 
+
 }
